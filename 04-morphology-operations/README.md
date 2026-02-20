@@ -1,6 +1,6 @@
 ## How to Run
 
--Make sure all input files (data*.txt and Elem*.txt) are located in the same directory 
+- Make sure all input files (data*.txt and Elem*.txt) are located in the same directory 
 as `SanchezP_Project4_Main.java` before compiling and running.
 
 1) javac morphology-operations.java
