@@ -12,7 +12,7 @@ Topics Include:
 - Connected component labeling
 - Chain code boundary representation
 
-- Technologies Used:
+Technologies Used:
 - C++
 - Java
 - Image Processing Algorithms
